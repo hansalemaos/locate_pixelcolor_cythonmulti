@@ -1,5 +1,5 @@
 import numpy as np
-from colorsearchcythonmulti import searchforcolor
+from .colorsearchcythonmulti import searchforcolor
 
 rcythoncode = '''
 # distutils: language = c++
